@@ -1,0 +1,7 @@
+.filter {
+  text-align: center;
+  padding: 10px 0;
+}
+.filter >a {
+  margin: 0 6px;
+}

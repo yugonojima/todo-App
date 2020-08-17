@@ -1,0 +1,19 @@
+.container {
+  width: 500px;
+  margin: 0 auto ;
+  background-color: khaki;
+}
+
+
+.todo {
+  background: grey;
+  font-size: 24px;
+  padding: 10px 15px 15px  ;
+  margin: 10px auto 0px;
+  border-radius: 10px;
+}
+
+.container > input {
+  width: 400px;
+  margin: 0 auto;
+}

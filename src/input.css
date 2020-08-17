@@ -1,0 +1,9 @@
+.input {
+  margin: 0 auto;
+}
+
+.input > input{
+  width: 90%;
+  height: 35px;
+  margin: 0 auto;
+}
